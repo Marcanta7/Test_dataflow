@@ -26,7 +26,7 @@ options:
   logging: STACKDRIVER_ONLY
 substitutions:
   _DATAFLOW_BASE_BUCKET: dataflow_macata
-  _DATAFLOW_JOB_NAME: dataflow_job
+  _DATAFLOW_JOB_NAME: dataflow-job
   _DATAFLOW_TEMPLATE_NAME: dataflow_template
   _REGION_ID: europe-southwest1
   _ARTIFACT_REGISTRY_REPOSITORY: macata1
