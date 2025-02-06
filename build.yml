@@ -28,7 +28,7 @@ substitutions:
   _DATAFLOW_BASE_BUCKET: dataflow_macata
   _DATAFLOW_JOB_NAME: dataflow_job
   _DATAFLOW_TEMPLATE_NAME: dataflow_template
-  _REGION_ID: europe-west1
+  _REGION_ID: europe-southwest1
   _ARTIFACT_REGISTRY_REPOSITORY: Test_dataflow
   _ARTIFACT_REGISTRY_IMAGE_NAME: dataflow_image
   _DATAFLOW_PYTHON_FILE_PATH: edem_dataflow_pipeline.py
