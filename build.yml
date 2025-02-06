@@ -37,6 +37,6 @@ substitutions:
   _DRIVING_PUBSUB_SUBSCRIPTION_NAME: projects/copper-pixel-443112-h3/subscriptions/driving_telemetry_topic-sub
   _ENVIRONMENT_PUBSUB_SUBSCRIPTION_NAME: projects/copper-pixel-443112-h3/subscriptions/environment_telemetry_topic-sub
   _FIRESTORE_COLLECTION_NAME_: telemetry
-  _OUTPUT_PUBSUB_TOPIC_NAME: telemetry_output
+  _OUTPUT_PUBSUB_TOPIC_NAME: projects/copper-pixel-443112-h3/topics/telemetry_output
   _IMAGE_API_URL: https://europe-southwest1-serverless-edem.cloudfunctions.net/getTrafficImages
   _SYSTEM_ID: Marc 
